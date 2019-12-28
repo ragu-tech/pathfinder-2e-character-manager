@@ -11,7 +11,7 @@ The software should support the following actions:
 ## Character creation
 As per manual, character creation happens in steps (p. 21):
 1. Create a concept
-  a. Ancestry, Background, Class, Details, Faith, Allies...
+  a. Ancestry, Background, Class, Details, Faith, Allies  .
 2. Start building ability scores
 3. Select an ancestry
 4. Pick a background
@@ -20,20 +20,20 @@ As per manual, character creation happens in steps (p. 21):
 7. Record class details
 8. Buy equipment
 9. Calculate modifiers
-  a. Perception
-  b. Saving throws
-  c. Melee strikes and ranged strikes
-  d. Skills
+  * Perception
+  * Saving throws
+  * Melee strikes and ranged strikes
+  * Skills
 10. Finishing details
-  a. Alignment
-  b. Deity
-  c. Age
-  d. Gender and pronouns
-  e. Class DC
-  f. Hero points
-  g. Armor class
-  h. Bulk
+  * Alignment
+  * Deity
+  * Age
+  * Gender and pronouns
+  * Class DC
+  * Hero points
+  * Armor class
+  * Bulk
 
 The tools should:
-- support (with documentation and restricted options) steps 2, 3, 4, 5, 8, and 10, and
-- autonomously complete 6, 7, and 9.
+* support (with documentation and restricted options) steps 2, 3, 4, 5, 8, and 10, and
+* autonomously complete 6, 7, and 9.
