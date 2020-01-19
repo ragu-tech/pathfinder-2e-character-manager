@@ -1,4 +1,4 @@
-# Node.js Backend for Ipan V2
+# Node.js Backend for PF-backend
 A Node based module using Mongodb to onboard user's into a very basic application, secured using JWT authorization.
 
 The Node.js app uses [Hapi Framework](https://hapijs.com)
@@ -56,14 +56,15 @@ $ node -v
 
 $ npm -v
 ```
-## Setup Node Ipan V2 Backend
+## Setup Node PF-Backend
 
 * Step1: Git clone the application
 
 ```
-$ git clone https://github.com/deakin-launchpad/ipanV2-backend.git
+$ git clone https://github.com/pathfinder-2e-character-manager/pathfinder-2e-character-manager.git
 
-$ cd ipanV2-backend
+$ cd pathfinder-2e-character-manager
+
 ```
 
 * Step2: Install node modules
