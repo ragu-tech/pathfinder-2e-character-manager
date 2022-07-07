@@ -41,7 +41,7 @@
     "lodash": "4.17.15",
     "log4js": "6.1.0",
     "md5": "2.2.1",
-    "moment": "2.24.0",
+    "moment": "2.29.4",
     "moment-range": "4.0.2",
     "mongoose": "5.7.5",
     "randomstring": "1.1.5",
